@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #ffc451;
+  color: #ffffff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffd584;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -1285,6 +1285,12 @@ section {
   font-size: 14px;
   color: #ffffff;
 }
+.contact .info a {
+  padding: 0 0 0 10px;
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #ffffff;
+}
 
 .contact .info .email,
 .contact .info .phone {
@@ -1493,7 +1499,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 span {
-  color: #ffc451;
+  color: #ffffff;
 }
 
 #footer .footer-top .footer-info p {
